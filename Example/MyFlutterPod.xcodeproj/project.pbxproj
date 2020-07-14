@@ -194,11 +194,11 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-MyFlutterPod_Tests/Pods-MyFlutterPod_Tests-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/MyFlutterPod/MyFlutterPod.framework",
+				"${PODS_ROOT}/../../ios_frameworks/Flutter.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MyFlutterPod.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Flutter.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

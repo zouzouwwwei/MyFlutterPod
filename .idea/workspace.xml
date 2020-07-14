@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97851c44-22be-405a-b370-4674191748e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Example/MyFlutterPod.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Example/MyFlutterPod.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFlutterPod.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/MyFlutterPod.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +14,7 @@
     <session id="-131791933">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
@@ -26,8 +25,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1668" />
-    <option name="y" value="23" />
+    <option name="x" value="-1579" />
+    <option name="y" value="346" />
     <option name="width" value="1668" />
     <option name="height" value="999" />
   </component>
@@ -99,7 +98,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1668" y="23" width="1668" height="999" extended-state="0" />
+    <frame x="-1579" y="346" width="1668" height="999" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.33333334" />
